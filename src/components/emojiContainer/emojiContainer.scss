@@ -1,0 +1,19 @@
+@import '../../styles/variables.scss';
+@import '../../styles/classes.scss';
+
+
+.mainContainer{
+    background-color: $green;
+} 
+
+.emojiNum{
+    color:red;
+}
+
+.emojiContainer{
+    // border :solid 1px;
+    // height: calc(100vh - 280px);
+    // display: grid;
+    // align-items: center;
+    // justify-items: center;
+}
